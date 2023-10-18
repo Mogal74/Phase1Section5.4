@@ -1,0 +1,14 @@
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\bin\Debug\net7.0\Phase1Section5.4.exe
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\bin\Debug\net7.0\Phase1Section5.4.deps.json
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\bin\Debug\net7.0\Phase1Section5.4.runtimeconfig.json
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\bin\Debug\net7.0\Phase1Section5.4.dll
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\bin\Debug\net7.0\Phase1Section5.4.pdb
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\obj\Debug\net7.0\Phase1Section5.4.GeneratedMSBuildEditorConfig.editorconfig
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\obj\Debug\net7.0\Phase1Section5.4.AssemblyInfoInputs.cache
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\obj\Debug\net7.0\Phase1Section5.4.AssemblyInfo.cs
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\obj\Debug\net7.0\Phase1Section5.4.csproj.CoreCompileInputs.cache
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\obj\Debug\net7.0\Phase1Section5.4.dll
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\obj\Debug\net7.0\refint\Phase1Section5.4.dll
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\obj\Debug\net7.0\Phase1Section5.4.pdb
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\obj\Debug\net7.0\Phase1Section5.4.genruntimeconfig.cache
+M:\Phase-1 Assisted projects\Phase1Section5.4\Phase1Section5.4\obj\Debug\net7.0\ref\Phase1Section5.4.dll
